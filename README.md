@@ -1,4 +1,4 @@
-# unbeatable_tic_tac_toe
+# Unbeatable-TicTacToe
 A Python implementation of an unbeatable Tic-Tac-Toe AI powered by the Minimax algorithm.
 
 ## Features:
